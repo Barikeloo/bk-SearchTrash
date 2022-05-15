@@ -1,7 +1,5 @@
 Config = {}
 
-Config.Distance = 1
-
 Config.RenovationPropTime = 10 * 60000 -- 10 minutes
 
 Config.Prop = {
